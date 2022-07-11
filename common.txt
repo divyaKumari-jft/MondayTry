@@ -1,1 +1,3 @@
-hello
+hello i am aman
+resolving conflict
+
